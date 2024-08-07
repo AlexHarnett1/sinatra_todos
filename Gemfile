@@ -5,4 +5,5 @@ gem "sinatra-contrib"
 gem "erubis"
 gem "webrick"
 
-ruby "3.2.2"
+ruby "3.3.4"
+gem "rackup", "~> 2.1"
